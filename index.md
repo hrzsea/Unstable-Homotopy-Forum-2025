@@ -32,22 +32,22 @@ Jiawei Zhou,
 ### (Unstable Homotopy Forum）
 
 
-|                             |       Aug. 12, Tue               |    Aug. 13, Wed                       |         Aug. 12, Tue               |    Aug. 13, Wed                       |                
+|                             |       Aug. 12, Tue               |    Aug. 13, Wed                       |         Aug. 14, Thu               |    Aug. 15, Fri                     |   Aug. 15, Fri                     |               
 | ----------------------------|----------------------------------|-------------------------------------  |----------------------------------|-------------------------------------  |
 |  |
-|            9:30 - 10:30     |  [**Haibao Duan**](#Haibao Duan) |      [**Jie Wu**](#Jie Wu)            |  [**Haibao Duan**](#Haibao Duan) |      [**Jie Wu**](#Jie Wu)            |
+|            9:30 - 10:30     |  [**Haibao Duan**](#Haibao Duan) |      [**Jie Wu**](#Jie Wu)            | [**Samik Basu**](#Samik Basu)    |  [**Stephen Theriault**](#Stephen Theriault)     |  [**Daisuke Kishimoto**](#Daisuke Kishimoto)    |
 |  |  
-|          10:30 - 11:00      |            ||                          ~~~ Tea Break                                                                                           |
+|          10:30 - 11:00      |      Tea Break        |
 |  |     
-|          11:00 - 12:00      |  [**Haibao Duan**](#Haibao Duan) |        [**Jie Wu**](#Jie Wu)          |  [**Haibao Duan**](#Haibao Duan) |        [**Jie Wu**](#Jie Wu)          |
+|          11:00 - 12:00      |  [**Haibao Duan**](#Haibao Duan) |        [**Jie Wu**](#Jie Wu)          |  [**Samik Basu**](#Samik Basu)  |        [**Stephen Theriault**](#Stephen Theriault)        | [**Daisuke Kishimoto**](#Daisuke Kishimoto)    |
 |  |
-|            12:00-14:30      |                                        Lunch Time                                                                                                  |
+|            12:00-14:30      |        Lunch Time     |
 |  |
-|            14:30 - 15:30    | [**Samik Basu**](#Samik Basu)    | [**Pengcheng Li**](#Pengcheng Li)     | [**Samik Basu**](#Samik Basu)    | [**Pengcheng Li**](#Pengcheng Li)     |
+|            14:30 - 15:30    | [**Xin Fu**](#Xin Fu)    | [**Pengcheng Li**](#Pengcheng Li)     |                                | [**Jiawei Zhou**](#Jiawei Zhou)     | |
 |  |
-|          15:30 - 16:00      |                                        Tea Break                                                                                                    |
+|          15:30 - 16:00      |     Tea Break        |
 |  |   
-|          16:00 - 17:00      |  [**Samik Basu**](#Samik Basu)   |    [**Pengcheng Li**](#Pengcheng Li)  | [**Samik Basu**](#Samik Basu)   |    [**Pengcheng Li**](#Pengcheng Li)  |
+|          16:00 - 17:00      |  [**Xin Fu**](#Xin Fu)   |    [**Pengcheng Li**](#Pengcheng Li)  |                                 |    [**Jiawei Zhou**](Jiawei Zhou)  ||
 
 
 
