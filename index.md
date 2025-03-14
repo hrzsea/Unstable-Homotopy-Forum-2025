@@ -43,7 +43,7 @@ Jiawei Zhou,
 |  |
 |            12:00-14:30      |        Lunch Time                |
 |  |               
-|            14:30 - 15:30    | [**Xin Fu**](#Xin Fu)            | [**Pengcheng Li**](#Pengcheng Li)     |    Free Disscsussion               |    [**Jiawei Zhou**](#Jiawei Zhou)               |                      |
+|            14:30 - 15:30    | [**Xin Fu**](#Xin Fu)            | [**Pengcheng Li**](#Pengcheng Li)     |    Free Afternoon                  |    [**Jiawei Zhou**](#Jiawei Zhou)               |                      |
 |  |
 |          15:30 - 16:00      |     Tea Break                    |
 |  |  
@@ -55,7 +55,7 @@ Jiawei Zhou,
 
 
 
-### <font color=Peru size=3> Samik Basu </font>
+- **<span id="Samik Basu">Samik Basu</span>**  
 
 Title: 
 
