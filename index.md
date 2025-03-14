@@ -8,7 +8,7 @@ The event will take the form of a workshop-style forum, featuring only nine invi
 
 ### Speakers: 
 
-Samik Basu, Haibao Duan, Xin Fu, Pengcheng Li, Daisuke Kishimoto (online), Stephen Theriaul, Jie Wu, Jiawei Zhou,...
+Samik Basu, Haibao Duan, Xin Fu, Pengcheng Li, Daisuke Kishimoto (online), Stephen Theriault, Jie Wu, Jiawei Zhou,...
 
 -------------------------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ Abstract:
 -------------------------------------------------------------------------------------------
 
 
-- **<span id="Stephen Theriaul*">Stephen Theriaul</span>**  
+- **<span id="Stephen Theriaul*">Stephen Theriault</span>**  
 
 Title: 
 
