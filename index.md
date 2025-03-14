@@ -36,22 +36,17 @@ Jiawei Zhou,
 | --------------------------- | --------------------------------  | -------------------------------------- |
 |                        |                                   |                                        |
 |            9:30 - 10:30  |     [**Haibao Duan**](#Haibao Duan)       |      [**Jian Liu**](#Jian Liu)         |
-|        
+|                                                                                                                  |        
 |          10:30 - 11:00 |                                        Tea Break                      |
-|        
+|                                                                                                                  |        
 |          11:00 - 12:00   |        [**Haibao Duan**](#Haibao Duan)        |    **[Pengcheng Li](#Pengcheng Li)**   |
-|        
+|                                                                                                                  |        
 |            12:00-14:30  |                                        Lunch Time                  |
-|                             
-|            11:20am-11:30am  |          Tea Break                |                   Tea Break            |
-|            11:30am-12:20am  |          **Ruizhi Huang**         | [**Xiangjun Wang**](#Xiangjun Wang)<sup>1</sup> |
-|                                                                                                          |
-|            12:30pm          |          Lunch                    |        Lunch              |
-|                                                                                                          |
-|              Afternoon      |               **Free discussion**  |            Free discussion/Leave       |
-|                                                                                                          |
-|              6:00pm (TBC)   |             Dinner               |                                        |
-
+|            9:30 - 10:30  |     [**Haibao Duan**](#Haibao Duan)       |      [**Jian Liu**](#Jian Liu)         |
+|                                                                                                                  |        
+|          10:30 - 11:00 |                                        Tea Break                      |
+|                                                                                                                  |        
+|          11:00 - 12:00   |        [**Haibao Duan**](#Haibao Duan)        |    **[Pengcheng Li](#Pengcheng Li)**   |
 
 
 
