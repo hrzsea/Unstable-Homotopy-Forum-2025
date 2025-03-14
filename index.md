@@ -1,4 +1,4 @@
-# Unstable Homotopy Forum
+# Unstable Homotopy Forum at AMSS
 ## <font color=DeepSkyBlue size=5 face="黑体"> Aug. 12-16, 2025 </font>
 
 The forum is dedicated to sharing recent advances and key techniques, fostering collaboration, formulating new problems, and inspiring interdisciplinary research in related areas such as manifolds, geometry, and algebra.
@@ -8,7 +8,7 @@ The event will take the form of a workshop-style forum, featuring only nine invi
 
 ### Speakers: 
 
-Samik Basu, `  ` Haibao Duan, `  `   Xin Fu, `  `  Pengcheng Li, `  `   Daisuke Kishimoto (online), `  `  Stephen Theriaul, `  `  Jie Wu, `  `  Jiawei Zhou, `  `
+Samik Basu, Haibao Duan, Xin Fu, Pengcheng Li, Daisuke Kishimoto (online), Stephen Theriaul, Jie Wu, Jiawei Zhou,...
 
 -------------------------------------------------------------------------------------------
 
@@ -46,12 +46,66 @@ Title:
 
 Abstract: 
 
+-------------------------------------------------------------------------------------------
 
+- **<span id="Haibao Duan*">Haibao Duan*</span>**  
+
+Title: 
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+- **<span id="Xin Fu*">Xin Fu*</span>**  
+
+Title: 
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+- **<span id="Pengcheng Li*">Pengcheng Li*</span>**  
+
+Title: 
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+- **<span id="Daisuke Kishimoto*">Daisuke Kishimoto*</span>**  
+
+Title: 
+
+Abstract: 
 
 -------------------------------------------------------------------------------------------
 
 
+- **<span id="Stephen Theriaul*">Stephen Theriaul*</span>**  
 
+Title: 
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+
+- **<span id="Jie Wu*">Jie Wu*</span>**  
+
+Title: 
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+
+- **<span id="Jiawei Zhou*">Jiawei Zhou*</span>**  
+
+Title: 
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
 
 
 
