@@ -1,29 +1,14 @@
 # Unstable Homotopy Forum
 ## <font color=DeepSkyBlue size=5 face="黑体"> Aug. 12-16, 2025 </font>
 
+The forum is dedicated to sharing recent advances and key techniques, fostering collaboration, formulating new problems, and inspiring interdisciplinary research in related areas such as manifolds, geometry, and algebra.
 
-
-### Description: 
-
+The event will take the form of a workshop-style forum, featuring only nine invited speakers, each delivering a series of two one-hour talks. This format is designed to promote deep academic communications, encourage mutual learning, and allow ample time for meaningful discussions.
 
 
 ### Speakers: 
 
-Samik Basu
-
-Haibao Duan
-
-Xin Fu,
-
-Pengcheng Li,
-
-Daisuke Kishimoto (online)
-
-Stephen Theriault,
-
-Jie Wu,
-
-Jiawei Zhou,
+Samik Basu, `  ` Haibao Duan, `  `   Xin Fu, `  `  Pengcheng Li, `  `   Daisuke Kishimoto (online), `  `  Stephen Theriaul, `  `  Jie Wu, `  `  Jiawei Zhou, `  `
 
 -------------------------------------------------------------------------------------------
 
