@@ -81,7 +81,7 @@ Abstract:
 -------------------------------------------------------------------------------------------
 
 
-- **<span id="Stephen Theriaul">Stephen Theriault</span>**  
+- **<span id="Stephen Theriault">Stephen Theriault</span>**  
 
 Title: 
 
