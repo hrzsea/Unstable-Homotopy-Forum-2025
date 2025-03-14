@@ -37,7 +37,7 @@ Jiawei Zhou,
 |  |
 |            9:30 - 10:30     |  [**Haibao Duan**](#Haibao Duan) |      [**Jie Wu**](#Jie Wu)            | [**Samik Basu**](#Samik Basu)    |  [**Stephen Theriault**](#Stephen Theriault)     |  [**Daisuke Kishimoto**](#Daisuke Kishimoto)    |
 |  |  
-|          10:30 - 11:00      |      Tea Break        |
+|          10:30 - 11:00      |     ---------------------------- ---------------------------- ----------------------------  Tea Break        |
 |  |     
 |          11:00 - 12:00      |  [**Haibao Duan**](#Haibao Duan) |        [**Jie Wu**](#Jie Wu)          |  [**Samik Basu**](#Samik Basu)  |        [**Stephen Theriault**](#Stephen Theriault)        | [**Daisuke Kishimoto**](#Daisuke Kishimoto)    |
 |  |
