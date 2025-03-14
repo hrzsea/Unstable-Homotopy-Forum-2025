@@ -34,20 +34,7 @@ Jiawei Zhou,
 
 |                             |       Aug. 12, Tue               |    Aug. 13, Wed                       |       Aug. 12, Tue               |    Aug. 13, Wed                       |                  
 | ----------------------------|----------------------------------|-------------------------------------  |
-|                             |                                  |                                       |
-|            9:30 - 10:30     |  [**Haibao Duan**](#Haibao Duan) |      [**Jie Wu**](#Jie Wu)            |
-|  |  
-|          10:30 - 11:00      |                                        Tea Break                         |
-|  |     
-|          11:00 - 12:00      |  [**Haibao Duan**](#Haibao Duan) |        [**Jie Wu**](#Jie Wu)          |
-|  |
-|            12:00-14:30      |                                        Lunch Time                        |
-|  |
-|            14:30 - 15:30    | [**Samik Basu**](#Samik Basu)    | [**Pengcheng Li**](#Pengcheng Li)     |
-|  |
-|          15:30 - 16:00      |                                        Tea Break                         |
-|  |   
-|          16:00 - 17:00      |  [**Samik Basu**](#Samik Basu)   |    [**Pengcheng Li**](#Pengcheng Li)  |
+
 
 
 
