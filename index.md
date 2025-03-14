@@ -48,7 +48,7 @@ Abstract:
 
 -------------------------------------------------------------------------------------------
 
-- **<span id="Haibao Duan*">Haibao Duan</span>**  
+- **<span id="Haibao Duan">Haibao Duan</span>**  
 
 Title: 
 
@@ -56,7 +56,7 @@ Abstract:
 
 -------------------------------------------------------------------------------------------
 
-- **<span id="Xin Fu*">Xin Fu</span>**  
+- **<span id="Xin Fu">Xin Fu</span>**  
 
 Title: 
 
@@ -64,7 +64,7 @@ Abstract:
 
 -------------------------------------------------------------------------------------------
 
-- **<span id="Pengcheng Li*">Pengcheng Li</span>**  
+- **<span id="Pengcheng Li">Pengcheng Li</span>**  
 
 Title: 
 
@@ -72,16 +72,7 @@ Abstract:
 
 -------------------------------------------------------------------------------------------
 
-- **<span id="Daisuke Kishimoto*">Daisuke Kishimoto</span>**  
-
-Title: 
-
-Abstract: 
-
--------------------------------------------------------------------------------------------
-
-
-- **<span id="Stephen Theriaul*">Stephen Theriault</span>**  
+- **<span id="Daisuke Kishimoto">Daisuke Kishimoto</span>**  
 
 Title: 
 
@@ -90,7 +81,7 @@ Abstract:
 -------------------------------------------------------------------------------------------
 
 
-- **<span id="Jie Wu*">Jie Wu</span>**  
+- **<span id="Stephen Theriaul">Stephen Theriault</span>**  
 
 Title: 
 
@@ -99,7 +90,16 @@ Abstract:
 -------------------------------------------------------------------------------------------
 
 
-- **<span id="Jiawei Zhou*">Jiawei Zhou</span>**  
+- **<span id="Jie Wu">Jie Wu</span>**  
+
+Title: 
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+
+- **<span id="Jiawei Zhou">Jiawei Zhou</span>**  
 
 Title: 
 
