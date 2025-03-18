@@ -20,7 +20,7 @@ The event will take the form of a workshop-style forum, featuring only nine invi
 
 [Daisuke Kishimoto (Kyushu University)](https://www2.math.kyushu-u.ac.jp/~kishimoto/home.html), 
 
-[Stephen Theriault (University of Southampton )](https://www.southampton.ac.uk/people/5x9nl2/professor-stephen-theriault), 
+[Stephen Theriault (University of Southampton)](https://www.southampton.ac.uk/people/5x9nl2/professor-stephen-theriault), 
 
 [Jie Wu (BIMSA)](https://bimsa.net/people/jiewu/), 
 
