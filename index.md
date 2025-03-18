@@ -8,7 +8,7 @@ The event will take the form of a workshop-style forum, featuring only nine invi
 
 ### Speakers: 
 
-[Samik Basu (Indian Statistical Institute)](https://isi.irins.org/profile/111494), 
+[Samik Basu (Indian Statistical Institute)](https://isi.irins.org/profile/111494),  ` `
 [Guy Boyde (Utrecht University)](https://guyboyde.wordpress.com/), 
 [Haibao Duan (AMSS)](https://baike.baidu.com/item/%E6%AE%B5%E6%B5%B7%E8%B1%B9/2745278), 
 [Xin Fu (BIMSA)](https://bimsa.net/people/fuxin/), 
