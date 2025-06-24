@@ -16,6 +16,8 @@ The event will take the form of a workshop-style forum, featuring only nine invi
 
 [Xin Fu (BIMSA)](https://bimsa.net/people/fuxin/), 
 
+[Sergei Ivanov (BIMSA)](https://bimsa.net/people/sivanov/), 
+
 [Pengcheng Li (Great Bay University)](https://lipcaty.github.io/), 
 
 [Daisuke Kishimoto (Kyushu University)](https://www2.math.kyushu-u.ac.jp/~kishimoto/home.html), 
@@ -44,11 +46,11 @@ The event will take the form of a workshop-style forum, featuring only nine invi
 |  |
 |            12:00-14:30      |        Lunch Time                |
 |  |               
-|            14:30 - 15:30    | [**Xin Fu**](#Xin Fu)            | [**Guy Boyde**](#Guy Boyde)     |    Free Afternoon                  |    [**Pengcheng Li**](#Pengcheng Li)              |  [**Jiawei Zhou**](#Jiawei Zhou)     |
+|            14:30 - 15:30    | [**Xin Fu**](#Xin Fu)            | [**Guy Boyde**](#Guy Boyde)     |    [**Sergei Ivanov**](#Sergei Ivanov)         |    [**Pengcheng Li**](#Pengcheng Li)              |  [**Jiawei Zhou**](#Jiawei Zhou)     |
 |  |
 |          15:30 - 16:00      |     Tea Break                    |
 |  |  
-|          16:00 - 17:00      |  [**Xin Fu**](#Xin Fu)           |    [**Guy Boyde**](#Guy Boyde)  |                                    |    [**Pengcheng Li**](#Pengcheng Li)                 |  [**Jiawei Zhou**](#Jiawei Zhou)    |
+|          16:00 - 17:00      |  [**Xin Fu**](#Xin Fu)           |    [**Guy Boyde**](#Guy Boyde)  |      [**Sergei Ivanov**](#Sergei Ivanov)         |    [**Pengcheng Li**](#Pengcheng Li)                 |  [**Jiawei Zhou**](#Jiawei Zhou)    |
 
 
 
@@ -87,6 +89,15 @@ Title:
 Abstract: 
 
 -------------------------------------------------------------------------------------------
+
+- **<span id="Sergei Ivanov">Sergei Ivanov</span>**  
+
+Title: 
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
 
 - **<span id="Pengcheng Li">Pengcheng Li</span>**  
 
