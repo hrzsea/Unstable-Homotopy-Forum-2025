@@ -3,7 +3,7 @@
 
 The forum is dedicated to sharing recent advances and key techniques, fostering collaboration, formulating new problems, and inspiring interdisciplinary research in related areas such as manifolds, geometry, and algebra.
 
-The event will take the form of a workshop-style forum, featuring only nine invited speakers, each delivering a series of two one-hour talks. This format is designed to promote deep academic communications, encourage mutual learning, and allow ample time for meaningful discussions.
+The event will take the form of a workshop-style forum, featuring 10 invited speakers, each delivering a series of two one-hour talks. This format is designed to promote deep academic communications, encourage mutual learning, and allow ample time for meaningful discussions.
 
 
 ### Speakers: 
