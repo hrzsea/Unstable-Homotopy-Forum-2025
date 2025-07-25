@@ -5,6 +5,9 @@ The forum is dedicated to sharing recent advances and key techniques, fostering 
 
 The event will take the form of a workshop-style forum, featuring 10 invited speakers, each delivering a series of two one-hour talks. This format is designed to promote deep academic communications, encourage mutual learning, and allow ample time for meaningful discussions.
 
+### Organizers: 
+
+[Ruizhi Huang](https://sites.google.com/site/hrzsea/), [Jianzhong Pan](http://www.math.ac.cn/people/professor/202204/t20220412_695402.html), [Zhengyi Zhou](https://sites.google.com/view/zhengyizhou/)
 
 ### Speakers: 
 
@@ -106,7 +109,7 @@ Abstract:
 
 Title: Bousfield-Kan completion as a codensity ∞-monad
 
-Abstract: 
+Abstract: In this two-part talk series, we will recall the notion of the codensity monad, provide some examples, and extend the theory to the setting of ∞-categories. We will then discuss the notion of Bousfield-Kan completion and its generalizations, and show that these constructions are codensity ∞-monads of certain full ∞-subcategories within the ∞-category of spaces.
 
 -------------------------------------------------------------------------------------------
 
