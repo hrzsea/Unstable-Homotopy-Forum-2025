@@ -170,6 +170,6 @@ Taking spheres as our foundational example, we demonstrate how this corresponden
 
 ### Map: 
 
-
+![](https://github.com/hrzsea/Unstable-Homotopy-Forum-2025/blob/gh-pages/map.png)  
 
 
