@@ -9,7 +9,7 @@ The event will take the form of a workshop-style forum, featuring 10 invited spe
 
 [Ruizhi Huang](https://sites.google.com/site/hrzsea/), [Jianzhong Pan](http://www.math.ac.cn/people/professor/202204/t20220412_695402.html), [Zhengyi Zhou](https://sites.google.com/view/zhengyizhou/)
 
-### Place: MCM 110 
+### Place: [MCM 110](https://github.com/hrzsea/Unstable-Homotopy-Forum-2025/blob/gh-pages/map.png)   
 
 ### Speakers: 
 
