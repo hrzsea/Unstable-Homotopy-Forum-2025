@@ -9,6 +9,8 @@ The event will take the form of a workshop-style forum, featuring 10 invited spe
 
 [Ruizhi Huang](https://sites.google.com/site/hrzsea/), [Jianzhong Pan](http://www.math.ac.cn/people/professor/202204/t20220412_695402.html), [Zhengyi Zhou](https://sites.google.com/view/zhengyizhou/)
 
+### Place: MCM 110 
+
 ### Speakers: 
 
 [Samik Basu (Indian Statistical Institute)](https://isi.irins.org/profile/111494), 
@@ -17,7 +19,7 @@ The event will take the form of a workshop-style forum, featuring 10 invited spe
 
 [Haibao Duan (AMSS)](https://baike.baidu.com/item/%E6%AE%B5%E6%B5%B7%E8%B1%B9/2745278), 
 
-[Xin Fu (Shanghai Institute for Mathematics and Interdisciplinary Sciences)](https://bimsa.net/people/fuxin/), 
+[Xin Fu (Shanghai Institute for Mathematics and Interdisciplinary Sciences)](https://www.simis.cn/xin-fu/)), 
 
 [Sergei Ivanov (BIMSA)](https://bimsa.net/people/sivanov/), 
 
@@ -165,6 +167,9 @@ Abstract: In this talk, we begin by constructing a rational algebraic model for 
 Taking spheres as our foundational example, we demonstrate how this correspondence faithfully encodes rational homotopy and homology for well-behaved spaces—such as simply connected spaces with finite-type cohomology. We will also explore the limitations of this approach when extended to more general cases. This leads to the open problem of when the realization preserves rational cohomology. If time permits, we will also discuss other algebraic methods for extracting topological information from Sullivan models.
 
 -------------------------------------------------------------------------------------------
+
+### Map: 
+
 
 
 
