@@ -101,9 +101,11 @@ As applications, we address three fundamental problems concerning the ring Inv(G
 
 - **<span id="Xin Fu">Xin Fu</span>**  
 
-Title: 
+Title: Rigidity in toric topology
 
-Abstract: 
+Abstract: Rigidity phenomena in geometry and topology concern when a weaker equivalence between two spaces implies a stronger one. A long-standing problem in toric topology asks whether quasitoric manifolds can be classified up to homeomorphism or diffeomorphism by their integral cohomology rings.
+
+In the first half of this talk, I will survey several notions of rigidity that arise in the study of manifolds with torus actions within toric topology. In the second half, I will discuss toric spaces that exhibit a homotopical form of rigidity, based on joint work with Tseleung So, Jongbaek Song, and Stephen Theriault.
 
 -------------------------------------------------------------------------------------------
 
