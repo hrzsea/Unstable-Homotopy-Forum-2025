@@ -5,6 +5,8 @@ The forum is dedicated to sharing recent advances and key techniques, fostering 
 
 The event will take the form of a workshop-style forum, featuring 10 invited speakers, each delivering a series of two one-hour talks. This format is designed to promote deep academic communications, encourage mutual learning, and allow ample time for meaningful discussions.
 
+(Please note this forum is paperless)
+
 ### Organizers: 
 
 [Ruizhi Huang](https://sites.google.com/site/hrzsea/), [Jianzhong Pan](http://www.math.ac.cn/people/professor/202204/t20220412_695402.html), [Zhengyi Zhou](https://sites.google.com/view/zhengyizhou/)
