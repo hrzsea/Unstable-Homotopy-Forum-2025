@@ -1,4 +1,4 @@
-# Unstable Homotopy Forum at AMSS
+# Unstable Homotopy Forum I at AMSS
 ## <font color=DeepSkyBlue size=5 face="黑体"> Aug. 12-16, 2025 </font>
 
 The forum is dedicated to sharing recent advances and key techniques, fostering collaboration, formulating new problems, and inspiring interdisciplinary research in related areas such as manifolds, geometry, and algebra.
